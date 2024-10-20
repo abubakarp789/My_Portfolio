@@ -1,6 +1,6 @@
 # Abu Bakar | Machine Learning and AI Developer
 
-![Profile Image](src\images\Portfolio.PNG)
+![Profile Image](src/images/Portfolio.PNG)
 
 ## About Me
 I'm a Computer Science student at Namal University Mianwali, passionate about leveraging Machine Learning (ML) and Artificial Intelligence (AI) to solve real-world problems. I enjoy training ML models, experimenting with Large Language Models (LLMs), and discovering creative solutions through AI.
