@@ -31,28 +31,28 @@ const imageAltText = "Machine Learning and AI Softwares icons picture";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "!00 Days Of Machine Learning With Bytewise Fellowship",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Completed 100DaysOfByteWiseFellowship Successfully. These 100 Days teach me a a lot about ML and AI field.",
+    url: "https://github.com/abubakarp789/100DaysOfBytewiseFellowship",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Churn Predictor",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Churn Predictor is my final Project of Bytewise Fellowship and it is also my first Open Source Project.",
+    url: "https://github.com/abubakarp789/Churn_Predictor",
   },
   {
-    title: "My Resume Site",
+    title: "Restaurant Management System",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Database Course Semester Project.",
+    url: "https://github.com/abubakarp789/Restaurant-Management-System",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My Portfolio",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created from Microsoft's codespaces project and deployed to Azure. Includes my experience and design abilities.",
+    url: "https://green-hill-0ee454400.5.azurestaticapps.net/",
   },
 ];
 
