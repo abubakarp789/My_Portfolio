@@ -31,7 +31,7 @@ const imageAltText = "Machine Learning and AI Softwares icons picture";
  */
 const projectList = [
   {
-    title: "!00 Days Of Machine Learning With Bytewise Fellowship",
+    title: "100 Days Of Machine Learning With Bytewise Fellowship",
     description:
       "Completed 100DaysOfByteWiseFellowship Successfully. These 100 Days teach me a a lot about ML and AI field.",
     url: "https://github.com/abubakarp789/100DaysOfBytewiseFellowship",

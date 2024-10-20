@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Abu Bakar",
-  title: "Machine Learning and AI Developer",
+  title: "Machine Learning Developer",
   email: "abubakarp789@gmail.com",
   gitHub: "abubakarp789",
   instagram: "abubakarp56",
